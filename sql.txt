@@ -1,0 +1,11 @@
+delete from tblCardProfiles
+delete from tblSessions
+delete from tblCards;
+delete from tblCardsPayment;
+delete from tblPeople;
+delete from tblTransctions;
+delete from tblCash;
+delete from tblCommands;
+delete from tblAAH;
+delete from tblBlockedProcesses;
+delete from tblGreenProcesses;
